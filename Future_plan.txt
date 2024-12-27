@@ -1,0 +1,11 @@
+1. Setup Initialization: Get the system up and running.
+
+2. Attack Detection: Use MobiXpert xApp to detect UE based attacks (e.g, Blind DoS, BTS Resource Depletion).
+
+3. Attack Detection: Detection of MITM Based Attacks (e.g, Uplink DoS Attack)
+
+4. Custom Rules: Implement custom rules in SecSM to collect additional parameters.
+
+5. Anomaly Detection xApp: Develop a custom xApp to detect anomalies using heuristic approaches.
+
+6. Anomaly Detection using ML: Use Machine Learning in an xApp for advanced anomaly detection.
